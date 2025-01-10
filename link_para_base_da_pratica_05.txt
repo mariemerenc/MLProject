@@ -1,0 +1,4 @@
+O link para a base de dados CNN_VGG16_256_avg utilizada na prática de Comitês de Classificadores encontra-se em:
+https://drive.google.com/drive/folders/1hdZK71n6H-WbYnK4gP62YxYg2CcwL4OK?usp=sharing
+
+A base de dados .csv tem 144MB e o .zip deste arquivo tem 37MB, o que ultrapassa o limite do Github (25MB).
